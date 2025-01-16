@@ -22,7 +22,7 @@ The dataset, sourced from Kaggle, includes metadata from IMDB movies. The key fe
 - Total records: 54086 movies
 - Multi-label genres: Movies can belong to multiple genres simultaneously.
 
-## SMS Spam DETECTION
+## SMS Spam Detection
 
 A machine learning project for classifying SMS using the [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/data). The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It contains one set of SMS messages in English of 5,574 messages, tagged according being ham (legitimate) or spam.
 
@@ -32,7 +32,7 @@ This project demonstrates the use of machine learning models to classify spam me
 
 This project addresses the problem of fraud detection in credit card transactions using machine learning techniques. The data is highly imbalanced, with only a small percentage of transactions being fraudulent. Techniques such as SMOTE are used to balance the dataset, ensuring that models are trained on a more representative sample. [Credit Card Transactions Fraud Detection Dataset](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
-## HANDWRITTEN TEXT GENERATION
+## Handwritten Text Generation
 
 This repository contains a deep learning model designed to generate handwritten text images from textual descriptions using a **Generative Adversarial Network (GAN)** approach. The model consists of a **generator** and a **discriminator** trained on a custom dataset of handwritten text images [Handwriting Recognition](https://www.kaggle.com/datasets/landlord/handwriting-recognition).
 
